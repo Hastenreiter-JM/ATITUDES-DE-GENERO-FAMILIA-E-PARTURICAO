@@ -1,3 +1,7 @@
+# Este programa é software livre: você pode redistribuí-lo e/ou modificá-lo
+# sob os termos da Licença Pública Geral GNU publicada pela Free Software Foundation,
+# na versão 3 da Licença ou (a seu critério) qualquer versão posterior.
+
 library(readxl)
 library(dplyr)
 library(poLCA)
@@ -203,3 +207,4 @@ table(dados3$SMarital,dados3$GrupoOr))
 
 xlsx::write.xlsx(tabela_eq,"Composição dos grupos.xlsx",sheetName = "Equidade de Gênero")
 xlsx::write.xlsx(tabela_or,"Composição dos grupos.xlsx",append = T,sheetName = "Preferência")
+
