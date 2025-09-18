@@ -1,10 +1,13 @@
-Este programa é software livre: você pode redistribuí-lo e/ou modificá-lo
-sob os termos da Licença Pública Geral GNU publicada pela Free Software Foundation,
-na versão 3 da Licença ou (a seu critério) qualquer versão posterior.
+Esse repositório contém resultados e os scripts do artigo "Atitudes de Gênero, Família e Parturição: uma análise do caso brasileiro",
+apresentado e presente nos anais do I Encontro Intermediário dos Grupos de Trabalho da Associação Brasileira de Estudos Populacionais: Gênero, Saúde e Fecundidade,
+ocorrido entre 10 e 12 de setembro de 2025 em Belo Horizonte, Brasil.
+
+Sobre o trabalho:
 
 ## ATITUDES DE GÊNERO, FAMÍLIA E PARTURIÇÃO:
 ### Uma Análise do Caso Brasileiro
 ### Júlia Moreira Hastenreiter; Universidade Federal de Minas Gerais
+
 Palavras-chaves: Parturição; Igualdade de Gênero; Atitude de Gênero; 
 Preferência Por Família/Trabalho.
 
@@ -34,3 +37,4 @@ da parturição observada entre as coortes de pessoas nascidas entre 1922 e 1971
 mostrar que pessoas com maior escolaridade/renda tendem a ter menos filhos em relação a
 pessoas de menor renda. Dito isto, as relações observadas são válidas apenas para as 
 pessoas nascidas entre 1922 e 1971 e podem mudar ao longo do tempo.
+
