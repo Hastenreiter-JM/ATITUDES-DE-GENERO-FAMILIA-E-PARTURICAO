@@ -2,6 +2,9 @@ Esse repositório contém resultados e os scripts do artigo "Atitudes de Gênero
 apresentado e presente nos anais do I Encontro Intermediário dos Grupos de Trabalho da Associação Brasileira de Estudos Populacionais: Gênero, Saúde e Fecundidade,
 ocorrido entre 10 e 12 de setembro de 2025 em Belo Horizonte, Brasil.
 
+1. Contém o anexo do artigo (Anexos.pdf)
+2. Código do R utilizado para a construção dos modelos (Script modelo.r)
+   
 Sobre o trabalho:
 
 ## ATITUDES DE GÊNERO, FAMÍLIA E PARTURIÇÃO:
