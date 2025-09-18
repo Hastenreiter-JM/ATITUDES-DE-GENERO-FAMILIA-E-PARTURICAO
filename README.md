@@ -1,10 +1,10 @@
-# Este programa é software livre: você pode redistribuí-lo e/ou modificá-lo
-# sob os termos da Licença Pública Geral GNU publicada pela Free Software Foundation,
-# na versão 3 da Licença ou (a seu critério) qualquer versão posterior.
+Este programa é software livre: você pode redistribuí-lo e/ou modificá-lo
+sob os termos da Licença Pública Geral GNU publicada pela Free Software Foundation,
+na versão 3 da Licença ou (a seu critério) qualquer versão posterior.
 
-ATITUDES DE GÊNERO, FAMÍLIA E PARTURIÇÃO:
-Uma Análise do Caso Brasileiro
-
+##ATITUDES DE GÊNERO, FAMÍLIA E PARTURIÇÃO:
+###Uma Análise do Caso Brasileiro
+###Júlia Moreira Hastenreiter; Universidade Federal de Minas Gerais
 Palavras-chaves: Parturição; Igualdade de Gênero; Atitude de Gênero; 
 Preferência Por Família/Trabalho.
 
